@@ -4,6 +4,7 @@ import java.util.List;
 
 public class Main {
 //    Đọc và ghi danh sách sinh viên ra file nhị phân
+//    Viết một ứng dụng cho phép đọc và ghi danh sách học viên ra file nhị phân
 
     public static void main(String[] args) {
         List<Student> students = new ArrayList<>();
